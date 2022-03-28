@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
+  <img src="https://telegra.ph/file/efe1fe3be3414134a448e.jpg">
 </p>
 
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+<h4><p align="center"> URANIUM ROBOT </p></h4>
 
 <p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
