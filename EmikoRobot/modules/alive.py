@@ -15,7 +15,7 @@ PHOTO = "https://telegra.ph/file/efe1fe3be3414134a448e.jpg"
 async def awake(event):
   TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), I'm Emiko Robot.** \n\n"
   TEXT += "♨️ **I'm Working Properly** \n\n"
-  TEXT += f"♨️ **Mʏ Mᴀsᴛᴇʀ : [URANIUM](https://t.me/THE_URANIUM)** \n\n"
+  TEXT += f"♨️ **Mʏ Mᴀsᴛᴇʀ : [ᴜʀᴀɴɪᴜᴍ](https://t.me/THE_URANIUM)** \n\n"
   TEXT += f"♨️ **Lɪʙʀᴀʀʏ Vᴇʀsɪᴏɴ :** `{telever}` \n\n"
   TEXT += f"♨️ **Tᴇʟᴇᴛʜᴏɴ Vᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
   TEXT += f"♨️ **Pʏʀᴏɢʀᴀᴍ Vᴇʀsɪᴏɴ :** `{pyrover}` \n\n"
