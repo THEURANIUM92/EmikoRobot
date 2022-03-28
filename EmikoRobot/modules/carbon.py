@@ -26,6 +26,7 @@ async def carbon_func(_, message):
 
 MEMEK = "https://telegra.ph/file/efe69cee5beb967a2136b.jpg"
 
+
 @pbot.on_message(filters.command("repo"))
 async def repo(_, message):
     await message.reply_photo(
@@ -44,10 +45,12 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "Repo", url="https://github.com/THEURANIUM92/UraniumRobot"), 
+                        "Repo", url="https://github.com/THEURANIUM92/UraniumRobot"
+                    ),
                     InlineKeyboardButton(
-                        "Support", url="https://t.me/URANIUM_MUSIC_SUPPORT")
+                        "Support", url="https://t.me/URANIUM_MUSIC_SUPPORT"
+                    ),
                 ]
             ]
-        )
+        ),
     )
